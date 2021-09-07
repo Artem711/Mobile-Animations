@@ -15,8 +15,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <SafeAreaProvider>
-        <BottomSheetPreview />
-        {/* <RootStackNavigator /> */}
+        {/* <BottomSheetPreview /> */}
+        <RootStackNavigator />
       </SafeAreaProvider>
     </NavigationContainer>
   )
